@@ -5,7 +5,7 @@ You can assign your own onClick handler to tutorial end button.
 
 ## **Demo**
 
-Three pictures with diffent size. 
+Three pictures with different size. 
 
 <img src="http://i.imgur.com/3ag9BNi.png" alt="Drawing" width="200"/>
 <img src="http://i.imgur.com/cxh9ts9.png" alt="Drawing" width="200"/>
