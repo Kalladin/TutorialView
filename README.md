@@ -1,5 +1,15 @@
 
 #### **Android Tutorial View**
+User can easily add tutorial view to your android application with autoly expand bubble.
+You can assign your own onClick handler to tutorial end button. 
+
+## **Demo**
+
+Three pictures with diffent size. 
+
+![Demo1](http://i.imgur.com/3ag9BNi.png)
+![Demo2](http://i.imgur.com/cxh9ts9.png)
+![Demo3](http://i.imgur.com/g5DEO9D.png)
 
 ## **Usage**
 
